@@ -13,7 +13,7 @@
   "author": "Mac Heller-Ogden",
   "license": "MIT",
   "dependencies": {
-    "acorn": "^6.2.0",
+    "acorn": "^6.4.1",
     "astring": "^1.4.0",
     "async-stream-generator": "^1.0.3"
   }
